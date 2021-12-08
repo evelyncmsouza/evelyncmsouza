@@ -3,9 +3,9 @@
 
 </p><br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/evelyncmsouza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/evelyncmsouza/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   &emsp;&emsp;
-  <a href="mailto:cmsouza1999@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:cmsouza1999@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <hr>
   <div>
     <a href="https://github.com/evelyncmsouza">
